@@ -1,3 +1,0 @@
-# Michael Lawrence Garcia
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, quam id aliquam tincidunt, nunc nunc aliquet nunc, id tincidunt nunc nunc id nunc. Sed euismod, quam id aliquam tincidunt, nunc nunc aliquet nunc, id tincidunt nunc nunc id nunc. Sed euismod, quam id aliquam tincidunt, nunc nunc aliquet nunc, id tincidunt nunc nunc id nunc. Sed euismod, quam id aliquam tincidunt, nunc nunc aliquet nunc, id tincidunt nunc nunc id nunc. Sed euismod, quam id aliquam tincidunt, nunc nunc aliquet nunc, id tincidunt nunc nunc id nunc.
