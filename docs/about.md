@@ -16,4 +16,3 @@ The best way to reach me is via [email](mailto:garcia.mlawrence@gmail.com). If y
 - [Home](/)
 - [Research](/research)
 - [Rockets](/rockets)
-- [Notes](/AeroCorpus)
